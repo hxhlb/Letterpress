@@ -1,0 +1,543 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Accessory Label" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "辅助标签"
+          }
+        }
+      }
+    },
+    "Accessory Label: Font Size" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "辅助标签：字号"
+          }
+        }
+      }
+    },
+    "Accessory Label: Y Offset" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "辅助标签：竖直偏移"
+          }
+        }
+      }
+    },
+    "Adaptive Color" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自适应颜色"
+          }
+        }
+      }
+    },
+    "An error occurred while verifying your purchase. Please try again later." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "验证你的购买时发生了一些问题，请稍后重试。"
+          }
+        }
+      }
+    },
+    "Apply" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用"
+          }
+        }
+      }
+    },
+    "Are you sure you want to reset all settings to their defaults?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你确定要还原所有选项到默认值？"
+          }
+        }
+      }
+    },
+    "Are you sure you want to reset the colors?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你确定要还原所有颜色到默认值？"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "Color #1" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "颜色 #1"
+          }
+        }
+      }
+    },
+    "Color #2" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "颜色 #2"
+          }
+        }
+      }
+    },
+    "Color #3" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "颜色 #3"
+          }
+        }
+      }
+    },
+    "Color #4" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "颜色 #4"
+          }
+        }
+      }
+    },
+    "Colors" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "颜色"
+          }
+        }
+      }
+    },
+    "Enable Accessory Label" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用辅助标签"
+          }
+        }
+      }
+    },
+    "Enable adaptive color to automatically adjust colors based on the artwork of the now playing song." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根据当前播放歌曲的封面自适应调整色彩组合。"
+          }
+        }
+      }
+    },
+    "Enable in Screenshots" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在屏幕录制中启用"
+          }
+        }
+      }
+    },
+    "Enable Letterpress" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用「活字印刷」"
+          }
+        }
+      }
+    },
+    "Enable on Lock Screen" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在锁定屏幕上启用"
+          }
+        }
+      }
+    },
+    "Enable particle effects based on lyrics when these specific applications are playing music." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当指定 App 播放音乐时，按照歌词内容显示粒子效果。"
+          }
+        }
+      }
+    },
+    "Final Size Multiplier" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "终止尺寸倍率"
+          }
+        }
+      }
+    },
+    "Font" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字体"
+          }
+        }
+      }
+    },
+    "General" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通用"
+          }
+        }
+      }
+    },
+    "Initial Size Multiplier" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起始尺寸倍率"
+          }
+        }
+      }
+    },
+    "It seems that you have not purchased “Letterpress” from Havoc Marketplace…" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "看起来你似乎还没有从浩劫商店购买「Letterpress」…"
+          }
+        }
+      }
+    },
+    "Letterpress" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活字印刷术"
+          }
+        }
+      }
+    },
+    "Login with **Havoc**" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通过 **Havoc** 登录"
+          }
+        }
+      }
+    },
+    "LXGWWenKai" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "霞鹜文楷"
+          }
+        }
+      }
+    },
+    "Oops!" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出错了！"
+          }
+        }
+      }
+    },
+    "Opacity" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不透明度"
+          }
+        }
+      }
+    },
+    "Particle Attraction Strength" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粒子引力系数"
+          }
+        }
+      }
+    },
+    "Particle Birth Rate" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粒子产生速率"
+          }
+        }
+      }
+    },
+    "Particle Damping Factor" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粒子阻尼系数"
+          }
+        }
+      }
+    },
+    "Particle Lifespan" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粒子存活时间"
+          }
+        }
+      }
+    },
+    "Particle Range" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粒子效果范围"
+          }
+        }
+      }
+    },
+    "Particle Size" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粒子大小"
+          }
+        }
+      }
+    },
+    "Particle Speed Variation" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粒子速度倍率"
+          }
+        }
+      }
+    },
+    "Particle Y Slide" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粒子竖直重心"
+          }
+        }
+      }
+    },
+    "PingFang" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "苹方"
+          }
+        }
+      }
+    },
+    "Preview" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预览"
+          }
+        }
+      }
+    },
+    "Purchase" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "立即购买"
+          }
+        }
+      }
+    },
+    "Reset" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还原"
+          }
+        }
+      }
+    },
+    "Reset Colors" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还原颜色"
+          }
+        }
+      }
+    },
+    "Reset to Defaults" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "还原所有选项"
+          }
+        }
+      }
+    },
+    "Retry" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重试"
+          }
+        }
+      }
+    },
+    "Select Colors" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择颜色"
+          }
+        }
+      }
+    },
+    "Selected Applications" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "指定应用程序启用"
+          }
+        }
+      }
+    },
+    "Sets the rate to zero to disable the particle effect." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将产生速率设置为 0 以关闭粒子效果。"
+          }
+        }
+      }
+    },
+    "TEST_LYRICS" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You're on the phone with your girlfriend, she's upset\nShe's going off about something that you said\n'Cause she doesn't get your humor like I do\nI'm in the room, it's a typical Tuesday night\nI'm listening to the kind of music she doesn't like\nAnd she'll never know your story like I do\nBut she wears short skirts, I wear T-shirts\nShe's Cheer Captain, and I'm on the bleachers\nDreaming about the day when you wake up and find\nThat what you're looking for has been here the whole time\nIf you could see that I'm the one who understands you\nBeen here all along, so why can't you see?\nYou belong with me, you belong with me\nWalk in the streets with you in your worn-out jeans\nI can't help thinking this is how it ought to be\nLaughing on a park bench, thinking to myself\n\"Hey, isn't this easy?\"\nAnd you've got a smile that can light up this whole town\nI haven't seen it in a while since she brought you down\nYou say you're fine, I know you better than that\nHey, what you doing with a girl like that?\nShe wears high heels, I wear sneakers\nShe's Cheer Captain, and I'm on the bleachers\nDreaming about the day when you wake up and find\nThat what you're looking for has been here the whole time\nIf you could see that I'm the one who understands you\nBeen here all along, so why can't you see?\nYou belong with me\nStanding by and waiting at your backdoor\nAll this time how could you not know, baby?\nYou belong with me, you belong with me\nOh, I remember you driving to my house in the middle of the night\nI'm the one who makes you laugh when you know you're 'bout to cry\nI know your favorite songs and you tell me 'bout your dreams\nThink I know where you belong, think I know it's with me\nCan't you see that I'm the one who understands you?\nBeen here all along, so why can't you see?\nYou belong with me\nStanding by and waiting at your backdoor\nAll this time how could you not know, baby?\nYou belong with me, you belong with me\nYou belong with me\nHave you ever thought, just maybe\nYou belong with me?\nYou belong with me"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "素胚勾勒出青花笔锋浓转淡\n瓶身描绘的牡丹一如你初妆\n冉冉檀香透过窗心事我了然\n宣纸上走笔至此搁一半\n釉色渲染仕女图韵味被私藏\n而你嫣然的一笑如含苞待放\n你的美一缕飘散\n去到我去不了的地方\n天青色等烟雨 而我在等你\n炊烟袅袅升起 隔江千万里\n在瓶底书汉隶仿前朝的飘逸\n就当我为遇见你伏笔\n天青色等烟雨 而我在等你\n月色被打捞起 晕开了结局\n如传世的青花瓷自顾自美丽\n你眼带笑意\n色白花青的锦鲤跃然于碗底\n临摹宋体落款时却惦记着你\n你隐藏在窑烧里千年的秘密\n极细腻犹如绣花针落地\n帘外芭蕉惹骤雨门环惹铜绿\n而我路过那江南小镇惹了你\n在泼墨山水画里\n你从墨色深处被隐去\n天青色等烟雨 而我在等你\n炊烟袅袅升起 隔江千万里\n在瓶底书汉隶仿前朝的飘逸\n就当我为遇见你伏笔\n天青色等烟雨 而我在等你\n月色被打捞起 晕开了结局\n如传世的青花瓷自顾自美丽\n你眼带笑意\n天青色等烟雨 而我在等你\n炊烟袅袅升起 隔江千万里\n在瓶底书汉隶仿前朝的飘逸\n就当我为遇见你伏笔\n天青色等烟雨 而我在等你\n月色被打捞起 晕开了结局\n如传世的青花瓷自顾自美丽\n你眼带笑意"
+          }
+        }
+      }
+    },
+    "This app is designed for iOS 16 and later. Some features may not work perfectly on earlier versions." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此 App 专为 iOS 16 设计，部分功能在你当前的设备上可能无法达到预期效果。"
+          }
+        }
+      }
+    },
+    "View My Purchases" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看我的订单"
+          }
+        }
+      }
+    },
+    "Y Offset" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "竖直偏移"
+          }
+        }
+      }
+    },
+    "ZhuqueFangsong" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "朱雀仿宋"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
