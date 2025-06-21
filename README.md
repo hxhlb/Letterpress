@@ -21,8 +21,8 @@ Compatible with iPhone from **iOS 15** to 17.0 with TrollStore.
 You can try using the following plugin to sync the lyrics of the now playing track to the Media Controls.
 
 - ✅ Apple Music: [AMLyrics](https://github.com/Lessica/AMLyrics/releases)
-- ✅ Spotify: [EeveeSpotify](https://github.com/Lessica/EeveeSpotify/releases)
-- ✅ YouTube Music: [YTMusicUltimate](https://github.com/Lessica/YTMusicUltimate/releases)
+- ✅ Spotify: [EeveeSpotify (Lessica Fork)](https://github.com/Lessica/EeveeSpotify/releases)
+- ✅ YouTube Music: [YTMusicUltimate (Lessica Fork)](https://github.com/Lessica/YTMusicUltimate/releases)
 - ✅ QQ Music
 - ✅ Netease Cloud Music
 - ✅ Kugou Music
