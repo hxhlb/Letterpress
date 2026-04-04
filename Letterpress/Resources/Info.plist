@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSSupportsAutomaticTermination</key>
+	<false/>
+	<key>NSSupportsSuddenTermination</key>
+	<false/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>network-authentication</string>
+	</array>
+	<key>UIBackgroundStyle</key>
+	<string>UIBackgroundStyleDefault</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>ChillBitmapSE_7px.ttf</string>
+		<string>ZhuqueFangsong-Regular.ttf</string>
+		<string>LXGWWenKaiLite-Medium.ttf</string>
+	</array>
+</dict>
+</plist>

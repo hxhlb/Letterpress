@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>ATLApplicationListMultiSelectionController</string>
+            <key>default</key>
+            <array>
+                <string>com.tencent.QQMusic</string>
+                <string>com.netease.cloudmusic</string>
+                <string>com.kugou.kugou1002</string>
+                <string>com.kugou.kgyouth</string>
+                <string>com.soda.music</string>
+				<string>com.wenyu.bodian</string>
+				<string>com.yeelion.kwplayer</string>
+				<string>com.migu.migumobilemusic</string>
+				<string>com.fq.music</string>
+            </array>
+			<key>defaults</key>
+			<string>wiki.qaq.letterpress</string>
+			<key>key</key>
+			<string>selectedApplications</string>
+			<key>label</key>
+			<string>Selected Applications</string>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>sectionType</key>
+					<string>Visible</string>
+				</dict>
+			</array>
+			<key>showIdentifiersAsSubtitle</key>
+			<true/>
+            <key>alphabeticIndexingEnabled</key>
+            <true/>
+			<key>defaultApplicationSwitchValue</key>
+			<false/>
+			<key>useSearchBar</key>
+			<true/>
+            <key>highlightSearchText</key>
+            <true/>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Select Applications</string>
+</dict>
+</plist>

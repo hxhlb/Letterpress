@@ -81,6 +81,36 @@
         }
       }
     },
+    "Avenir Next" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avenir Next"
+          }
+        }
+      }
+    },
+    "By Character" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按字"
+          }
+        }
+      }
+    },
+    "By Word" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按词语"
+          }
+        }
+      }
+    },
     "Cancel" : {
       "localizations" : {
         "zh-Hans" : {
@@ -221,12 +251,52 @@
         }
       }
     },
+    "Futura" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Futura"
+          }
+        }
+      }
+    },
     "General" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "通用"
+          }
+        }
+      }
+    },
+    "Georgia" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Georgia"
+          }
+        }
+      }
+    },
+    "Helvetica Neue" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helvetica Neue"
+          }
+        }
+      }
+    },
+    "Indo-European language will be always tokenized “By Word”." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "印欧语系将始终「按词语」进行分词。"
           }
         }
       }
@@ -281,6 +351,16 @@
         }
       }
     },
+    "New version %@ available!" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新版本 %@ 可用！"
+          }
+        }
+      }
+    },
     "Oops!" : {
       "localizations" : {
         "zh-Hans" : {
@@ -317,6 +397,26 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "粒子产生速率"
+          }
+        }
+      }
+    },
+    "Particle Burst Count" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粒子迸发数量"
+          }
+        }
+      }
+    },
+    "Particle Burst Count Variation" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粒子迸发数量差异"
           }
         }
       }
@@ -361,12 +461,22 @@
         }
       }
     },
+    "Particle Speed" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粒子速度"
+          }
+        }
+      }
+    },
     "Particle Speed Variation" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "粒子速度倍率"
+            "value" : "粒子速度差异"
           }
         }
       }
@@ -383,6 +493,12 @@
     },
     "PingFang" : {
       "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "San Francisco"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -472,12 +588,22 @@
         }
       }
     },
+    "Sets the rate to zero to disable the particle burst effect." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将粒子迸发数量设置为 0 以关闭粒子迸发效果。"
+          }
+        }
+      }
+    },
     "Sets the rate to zero to disable the particle effect." : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将产生速率设置为 0 以关闭粒子效果。"
+            "value" : "将粒子产生速率设置为 0 以关闭粒子效果。"
           }
         }
       }
@@ -504,6 +630,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "此 App 专为 iOS 16 设计，部分功能在你当前的设备上可能无法达到预期效果。"
+          }
+        }
+      }
+    },
+    "Tokenizer Mode" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分词模式"
           }
         }
       }
