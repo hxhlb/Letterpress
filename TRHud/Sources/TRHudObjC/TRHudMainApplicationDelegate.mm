@@ -7,7 +7,6 @@
 
 #import "TREventFetcher.h"
 #import "TRHudAppMonitor+Private.h"
-#import "TRHudCore.h"
 #import "TRHudDefines.h"
 #import "TRHudMainApplicationDelegate.h"
 #import "TRHudMainWindow.h"
@@ -37,7 +36,6 @@
 LOGGER_WITH_CATEGORY("TRHudMainApplicationDelegate");
 
 @implementation TRHudMainApplicationDelegate {
-    TRHudCore *_core;
     FBSOrientationObserver *_orientationObserver;
     TRHudMainWindow *_mainWindow;
     UIViewController *_rootViewController;
@@ -98,8 +96,6 @@ static void mSpringBoardLockStatusChanged(CFNotificationCenterRef center, void *
 
 - (instancetype)init {
     if (self = [super init]) {
-        _core = [[TRHudCore alloc] init];
-
         _isScreenDimmed = NO;
         _isScreenLocked = NO;
         _isKeychainLocked = NO;
@@ -109,7 +105,6 @@ static void mSpringBoardLockStatusChanged(CFNotificationCenterRef center, void *
         _shouldDisplayOnLockScreen = NO;
 
         NSBundle *mainBundle = [NSBundle mainBundle];
-        BOOL coreVerified = [_core verifyMachOFile:[mainBundle executablePath]];
 
         NSString *bundleIdentifier = [mainBundle bundleIdentifier];
         _appMonitor = [[TRHudAppMonitor alloc] initWithBundleIdentifier:bundleIdentifier];
@@ -118,13 +113,11 @@ static void mSpringBoardLockStatusChanged(CFNotificationCenterRef center, void *
 
         log_debug(LLOOGG, "- [TRHudMainApplicationDelegate init]");
 
-        if (coreVerified) {
-            [self setupUserDefaultsObserver];
-            [self setupOrientationObserver];
-            [self setupScreenDimObserver];
-            [self setupScreenLockObserver];
-            [self setupKeychainLockObserver];
-        }
+        [self setupUserDefaultsObserver];
+        [self setupOrientationObserver];
+        [self setupScreenDimObserver];
+        [self setupScreenLockObserver];
+        [self setupKeychainLockObserver];
     }
 
     return self;
