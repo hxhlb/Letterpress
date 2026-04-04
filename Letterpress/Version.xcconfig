@@ -1,0 +1,13 @@
+//
+//  Version.xcconfig
+//  TRApp
+//
+//  Created by Lessica on 2024/3/4.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+VERSION = 2.0
+REVISION = "d003743"
+BUILD_NUMBER = 97

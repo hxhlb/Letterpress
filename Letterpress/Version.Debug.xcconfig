@@ -1,0 +1,13 @@
+//
+//  Version.xcconfig
+//  TRApp
+//
+//  Created by Lessica on 2024/3/4.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+DEBUG_VERSION = 1.8
+DEBUG_REVISION = "33df529"
+DEBUG_BUILD_NUMBER = 202510271
