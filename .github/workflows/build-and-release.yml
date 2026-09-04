@@ -35,7 +35,7 @@ jobs:
     - name: Checkout theos
       uses: actions/checkout@v4
       with:
-        repository: OwnGoalStudio/theos
+        repository: owngoal-dev/theos
         ref: fixture/letterpress
         path: theos
         submodules: recursive

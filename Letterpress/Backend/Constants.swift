@@ -12,8 +12,8 @@ enum Constants {
         var values = [
             "FeedbackMailTo": "mailto:82flex@gmail.com",
             "InviteLinkDiscord": "https://discord.gg/P2Hn82zS",
-            "GitHubReleasePage": "https://github.com/OwnGoalStudio/Letterpress/releases",
-            "GitHubReleaseEndpointForUpgradeCheck": "https://api.github.com/repos/OwnGoalStudio/Letterpress/releases",
+            "GitHubReleasePage": "https://github.com/owngoal-dev/Letterpress/releases",
+            "GitHubReleaseEndpointForUpgradeCheck": "https://api.github.com/repos/owngoal-dev/Letterpress/releases",
         ]
         return values
     }()

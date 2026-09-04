@@ -8,7 +8,7 @@ An awesome music visualizer for iOS.
 
 一款精美的 iOS 音乐可视化应用。
 
-[![Build and Release](https://github.com/OwnGoalStudio/Letterpress/actions/workflows/build-and-release.yml/badge.svg)](https://github.com/OwnGoalStudio/Letterpress/actions/workflows/build-and-release.yml)
+[![Build and Release](https://github.com/owngoal-dev/Letterpress/actions/workflows/build-and-release.yml/badge.svg)](https://github.com/owngoal-dev/Letterpress/actions/workflows/build-and-release.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![iOS 15.0+](https://img.shields.io/badge/iOS-15.0%2B-blue.svg)](https://developer.apple.com/ios/)
 
@@ -67,16 +67,16 @@ An awesome music visualizer for iOS.
    brew install xcbeautify ldid-procursus p7zip
    ```
 
-2. Clone the [Theos](https://github.com/OwnGoalStudio/theos) build system:
+2. Clone the [Theos](https://github.com/owngoal-dev/theos) build system:
 
    ```bash
-   git clone --recursive -b fixture/letterpress https://github.com/OwnGoalStudio/theos.git ~/theos
+   git clone --recursive -b fixture/letterpress https://github.com/owngoal-dev/theos.git ~/theos
    ```
 
 3. Clone this repository and build:
 
    ```bash
-   git clone https://github.com/OwnGoalStudio/Letterpress.git
+   git clone https://github.com/owngoal-dev/Letterpress.git
    cd Letterpress
    ./devkit/compile.sh
    ```
@@ -124,16 +124,16 @@ An awesome music visualizer for iOS.
    brew install xcbeautify ldid-procursus p7zip
    ```
 
-2. 克隆 [Theos](https://github.com/OwnGoalStudio/theos) 构建系统：
+2. 克隆 [Theos](https://github.com/owngoal-dev/theos) 构建系统：
 
    ```bash
-   git clone --recursive -b fixture/letterpress https://github.com/OwnGoalStudio/theos.git ~/theos
+   git clone --recursive -b fixture/letterpress https://github.com/owngoal-dev/theos.git ~/theos
    ```
 
 3. 克隆本仓库并构建：
 
    ```bash
-   git clone https://github.com/OwnGoalStudio/Letterpress.git
+   git clone https://github.com/owngoal-dev/Letterpress.git
    cd Letterpress
    ./devkit/compile.sh
    ```
